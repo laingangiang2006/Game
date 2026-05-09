@@ -23,5 +23,11 @@ A simple task manager with folder support.
 
 ---
 
+### Counter
+
+▶️ [Try on Plunker](https://plnkr.co/plunk/w187hxvvIvQADxYb)
+
+---
+
 ## About
 These are personal side projects created for learning and fun. Feel free to explore the code!
