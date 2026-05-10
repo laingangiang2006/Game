@@ -1,5 +1,11 @@
 # My playground
 
+## About
+
+These are personal side projects created for learning and fun. Feel free to explore the code!
+
+---
+
 ## Projects
 
 ### 1. Quiz
@@ -21,9 +27,3 @@
 ### 5. Github User Finder
 
 ▶️ [Try on Plunker](https://plnkr.co/plunk/T39hc6OtQv1A1eoz)
-
-----
-
-## About
-
-These are personal side projects created for learning and fun. Feel free to explore the code!
