@@ -1,6 +1,5 @@
 # My playground
 
-
 Small projects I built for fun.
 
 ## Projects
@@ -12,7 +11,6 @@ Small projects I built for fun.
 ---
 
 ### To-do List
-A simple task manager with folder support.
 
 ▶️ [Try on Plunker](https://plnkr.co/edit/UsM4dpbQH7dHZY6E)
 
