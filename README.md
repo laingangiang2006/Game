@@ -1,6 +1,6 @@
 # My playground
 
-Small projects I built for fun.
+These are projects I built for learning and fun.
 
 ## Projects
 
