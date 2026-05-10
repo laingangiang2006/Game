@@ -2,6 +2,8 @@
 
 These are projects I built for learning and fun.
 
+----
+
 ## Projects
 
 ### 1. Quiz
@@ -24,7 +26,7 @@ These are projects I built for learning and fun.
 
 ▶️ [Try on Plunker](https://plnkr.co/plunk/T39hc6OtQv1A1eoz)
 
-
+----
 
 ## About
 
